@@ -7,9 +7,7 @@ Deploys preset bginfo that
 * ignores inactive network connections
 * only shows ipv4 info
 
-Should work well with [NetSetMan](https://www.netsetman.com)
-
-bginfo v4.26 2018-10-12
+Bginfo64.exe v4.26 2018-10-12
 
 ![demonstration](https://i.imgur.com/WMzRu8f.png)
 
@@ -18,7 +16,7 @@ bginfo v4.26 2018-10-12
 * run DEPLOY.BAT as administrator
 * done
 
-######what it does:
+#####what it does:
 
 * copies the files in to `C:\ProgramData\bginfo`
 * imports scheduled task that 
@@ -34,6 +32,7 @@ bginfo v4.26 2018-10-12
 
 * a file called `bginfo_update_NOW.lnk` can be placed anywhere to run the bginfo scheduled task at demand
 * editing scheduled task and running it as group "users" will run it for all
-* to get network info from only active network interfaces custom wmi queries are used for dhcp, dns, mac address, type. For ip address a vbs script `active_ip4.vbs` is used and needs to be in the same folder as the `bginfo_preset.bgi`
+* to get network info from only active network interfaces custom wmi queries are used for dhcp, dns, mac address, type. For ip address a vbs script `active_ip4.vbs` is used
+* file `bginfo_preset_clean.bgi` is without custom stuff, will show inactive info
 
 ![bginfo](https://i.imgur.com/YN9VQPI.png)
