@@ -16,16 +16,16 @@ Bginfo64.exe v4.26 2018-10-12
 * run DEPLOY.BAT as administrator
 * done
 
-#####what it does:
+###### what it does:
 
 * copies the files in to `C:\ProgramData\bginfo`
 * imports scheduled task that 
  runs `"%PROGRAMDATA%\bginfo\Bginfo64.exe"`  
  with parameter  
  `"%PROGRAMDATA%\bginfo\bginfo_preset.bgi" /timer:0 /nolicprompt /silent`
- * at log in
- * at 15 min intervals
- * 3 seconds after events 10000, 10001, 4004 coming from `Microsoft-Windows-NetworkProfile/Operational`
+  * at log in
+  * at 15 min intervals
+  * 3 seconds after events 10000, 10001, 4004 coming from `Microsoft-Windows-NetworkProfile/Operational`
 * runs the freshly created scheduled task
 
 ### Additiona info:
