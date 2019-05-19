@@ -1,0 +1,1363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defa",
+				"default"
+			],
+			[
+				"snap",
+				"snapshots"
+			],
+			[
+				"notebook",
+				"notebookcheck"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"las",
+				"last_item"
+			],
+			[
+				"bac",
+				"backup_path"
+			],
+			[
+				"task",
+				"taskpath"
+			],
+			[
+				"si",
+				"Size"
+			],
+			[
+				"free",
+				"free_space"
+			],
+			[
+				"ema",
+				"email_recipients"
+			],
+			[
+				"fre",
+				"free_space"
+			],
+			[
+				"tar",
+				"target_partition"
+			],
+			[
+				"inf",
+				"info_file_path"
+			],
+			[
+				"n_",
+				"keep_n_monthly"
+			],
+			[
+				"wim",
+				"wimlib_exe_full_path"
+			],
+			[
+				"old",
+				"old_name"
+			],
+			[
+				"get",
+				"Get-Item"
+			],
+			[
+				"Forma",
+				"Format-Table"
+			],
+			[
+				"Out",
+				"Out-String"
+			],
+			[
+				"Form",
+				"Format-Table"
+			],
+			[
+				"so",
+				"sort-object"
+			],
+			[
+				"hash",
+				"hashtables"
+			],
+			[
+				"year",
+				"years_separated"
+			],
+			[
+				"dat",
+				"date_object"
+			],
+			[
+				"zi",
+				"zip_extract_target"
+			],
+			[
+				"test",
+				"Test-Path"
+			],
+			[
+				"after",
+				"afterwards"
+			],
+			[
+				"con",
+				"config_file_name"
+			],
+			[
+				"le",
+				"Length"
+			],
+			[
+				"value",
+				"Value"
+			],
+			[
+				"mont",
+				"monthly"
+			],
+			[
+				"keep",
+				"keep_n_weekly"
+			],
+			[
+				"mo",
+				"monthly_kept"
+			],
+			[
+				"monthly",
+				"keep_n_monthly"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"targ",
+				"target_partition"
+			],
+			[
+				"Da",
+				"DATABASE_PATH\tstatement"
+			],
+			[
+				"gl",
+				"global\tkeyword"
+			],
+			[
+				"sor",
+				"sort_changed_in_model\tstatement"
+			],
+			[
+				"reve",
+				"revert_sort_order\tstatement"
+			],
+			[
+				"db_",
+				"db_query_result"
+			],
+			[
+				"db",
+				"db_query_result\tparam"
+			],
+			[
+				"table",
+				"table_data"
+			],
+			[
+				"back",
+				"backups"
+			],
+			[
+				"backup",
+				"backup_path"
+			],
+			[
+				"comm",
+				"command_in_trigger"
+			],
+			[
+				"com",
+				"command_in_trigger"
+			],
+			[
+				"k",
+				"keep_monthly"
+			],
+			[
+				"ke",
+				"keep_weekly"
+			],
+			[
+				"kee",
+				"keeping_this"
+			],
+			[
+				"fu",
+				"FullName"
+			],
+			[
+				"for",
+				"Foreach-Object"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"all",
+				"all_previous_backups"
+			],
+			[
+				"shad",
+				"shadowcopy_backup_deploy"
+			],
+			[
+				"sha",
+				"shadowcopy_backup"
+			],
+			[
+				"de",
+				"deploy_folder"
+			],
+			[
+				"d",
+				"deploy_folder"
+			],
+			[
+				"run",
+				"runtime"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"BAC",
+				"backup_path"
+			],
+			[
+				"comp",
+				"CompressionLevel"
+			],
+			[
+				"log",
+				"log_file"
+			],
+			[
+				"no",
+				"no-startup-id"
+			],
+			[
+				"ne",
+				"ne"
+			],
+			[
+				"net",
+				"net_version"
+			],
+			[
+				"anchors",
+				"anchors.fill\tfill"
+			],
+			[
+				"list",
+				"listed\tstatement"
+			],
+			[
+				"sep",
+				"separated\tstatement"
+			],
+			[
+				"st",
+				"stuff\tparam"
+			],
+			[
+				"fix",
+				"fix_number\tfunction"
+			],
+			[
+				"bytes",
+				"bytesize\tstatement"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"sort",
+				"sortColumn\tfunction"
+			],
+			[
+				"Qt",
+				"Qt.SortOrder"
+			],
+			[
+				"is",
+				"is_clean\tfunction"
+			],
+			[
+				"rand",
+				"random_ones\tstatement"
+			],
+			[
+				"ran",
+				"range\tfunction"
+			],
+			[
+				"ope",
+				"operands\tstatement"
+			],
+			[
+				"se",
+				"separate\tstatement"
+			],
+			[
+				"exc",
+				"exclude_query_part\tstatement"
+			],
+			[
+				"sql",
+				"sql_query\tstatement"
+			],
+			[
+				"sq",
+				"sql_query\tstatement"
+			],
+			[
+				"lo",
+				"local_root\tstatement"
+			],
+			[
+				"input",
+				"input_text\tstatement"
+			],
+			[
+				"in",
+				"input_text\tstatement"
+			],
+			[
+				"rect",
+				"rect_x"
+			],
+			[
+				"reco",
+				"recording"
+			],
+			[
+				"mimeT",
+				"mimeTypeForFile\tfunction"
+			],
+			[
+				"loca",
+				"local_root"
+			],
+			[
+				"dir",
+				"dirs_excluded\tparam"
+			],
+			[
+				"instan",
+				"instantaneous"
+			],
+			[
+				"time",
+				"time_diff\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"remov",
+				"remove_duplicate_strings_in_list\tfunction"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			],
+			[
+				"en",
+				"enchant\tmodule"
+			],
+			[
+				"el",
+				"else\tkeyword"
+			],
+			[
+				"glo",
+				"globals\tfunction"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"last",
+				"last_number_of_results\tstatement"
+			],
+			[
+				"mime",
+				"mimetype\tstatement"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"rege",
+				"REGEX_QUERY_READY\tglobalstmt"
+			],
+			[
+				"p",
+				"p\tprint_python_3"
+			],
+			[
+				"RE",
+				"REGEX_QUERY_READY\tstatement"
+			],
+			[
+				"direc",
+				"directory"
+			],
+			[
+				"not",
+				"NOTIFICATIONS_ENABLED\tstatement"
+			],
+			[
+				"q",
+				"query_words\tstatement"
+			],
+			[
+				"quer",
+				"queries_threads"
+			],
+			[
+				"str",
+				"string_way\tfunction"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"fin",
+				"final_query\tstatement"
+			],
+			[
+				"joi",
+				"joined_by_pipe"
+			],
+			[
+				"strip",
+				"strip_and_split\tstatement"
+			],
+			[
+				"x",
+				"x_is_quoted\tstatement"
+			],
+			[
+				"Ctrl",
+				"ControlModifier\tinstance"
+			],
+			[
+				"alt",
+				"AltModifier\tinstance"
+			],
+			[
+				"pyqt",
+				"PyQt5\tmodule"
+			],
+			[
+				"qu",
+				"quotes\tstatement"
+			],
+			[
+				"right_",
+				"right_click_menu"
+			],
+			[
+				"fe",
+				"feedburner_origlink"
+			],
+			[
+				"ra",
+				"random_news\tstatement"
+			],
+			[
+				"accept",
+				"accepted_stories\tstatement"
+			],
+			[
+				"pack",
+				"packages"
+			],
+			[
+				"setF",
+				"setFixedWidth\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ss conf",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"GIT STATUS",
+				"Git: Status"
+			],
+			[
+				"git stau",
+				"Git: Status"
+			],
+			[
+				"ss txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"compa",
+				"Diffy Compare"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"set syntax power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"css ",
+				"Set Syntax: CSS"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sspower",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"ss power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git stt",
+				"Git: Status"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python3"
+			],
+			[
+				"gener",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ss javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"cap",
+				"Convert Case: Swap Case"
+			],
+			[
+				"url",
+				"Open URL under cursor"
+			],
+			[
+				"git satus",
+				"Git: Status"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sspow",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"powe",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"ge",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"gene",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"remova p",
+				"Package Control: Remove Package"
+			],
+			[
+				"powersh",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"synta pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"gen",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"ss text",
+				"Set Syntax: Textile"
+			],
+			[
+				"ss pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"gg",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"diff",
+				"Diffy Cleanup"
+			],
+			[
+				"comp",
+				"Diffy Compare"
+			],
+			[
+				"ssbat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"set synta geer",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python3"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"ss",
+				"Set Syntax: Python3"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"remova",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"git sat",
+				"Git: Status"
+			],
+			[
+				"repl run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"c",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python3"
+			],
+			[
+				"ss  pyt",
+				"Set Syntax: Python3"
+			],
+			[
+				"ss p",
+				"Set Syntax: Python3"
+			],
+			[
+				"dif",
+				"Diffy Compare"
+			],
+			[
+				"git stu",
+				"Git: Status"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"diffy",
+				"Diffy Cleanup"
+			],
+			[
+				"compare",
+				"Diffy Compare"
+			],
+			[
+				"cinoare",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git staus",
+				"Git: Status"
+			],
+			[
+				"con",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"remove apca",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssgene",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"upper case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ss gene",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist st",
+				"Git: Status"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"convert",
+				"Convert Case: Lower Case"
+			],
+			[
+				"GIT STATSU",
+				"Git: Status"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"enga",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Channel"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"Build With: ",
+				"Build With: Python3"
+			],
+			[
+				"ssge",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"sst",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sstxt",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssco",
+				"Set Syntax: Conky"
+			],
+			[
+				"ss plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"file histroy:",
+				"File History: Open recently closed file (All Projects)"
+			]
+		],
+		"width": 495.0
+	},
+	"console":
+	{
+		"height": 340.0,
+		"history":
+		[
+			"window.run_command('default_file_type')",
+			"window.run_command('Default_File_Type')",
+			"window.run_command('DefaultFileType')",
+			"window.run_command('cunt')",
+			"window.run_command('Default_File_Type')",
+			"view.run_command('Default_File_Type')",
+			"window.run_command('DefaultFileType')",
+			"view.run_command('DefaultFileType')",
+			"view.run_command('Default_File_Type')",
+			"view.run_command('DefaultFileType')",
+			"view.settings().get('syntax')",
+			"window.run_command(\"set_file_type\", {\"syntax\": \"Packages/Generic Config/GenericConfig.tmLanguage\"})",
+			"view.settings().get('syntax')",
+			"asd",
+			"view.settings().get('syntax')",
+			"view.run_command('angry')",
+			"view.run_command(\"Angry\")",
+			"sublime.log_input(True)",
+			"clear",
+			"print sys.version",
+			"import sys",
+			"sublime.packages_path()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/bginfo_update_NOW.lnk",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/active_ip4.vbs",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/onlyoffice/onlyoffice.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/thunderbird/thunderbird.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/skype/skype.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/mpv/mpv.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/flash/flash.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/firefox/firefox.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/anydesk/anydesk.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/chrome/chrome.ps1",
+		"/home/ja/.zshrc",
+		"/etc/makepkg.conf",
+		"/mnt/B1/untitled.txt",
+		"/home/ja/helpy/docker-compose.yml",
+		"/mnt/C1/torrents/a/Game.of.Thrones.S08E05.WEB.H264-MEMENTO[eztv].srt",
+		"/home/ja/en.yml",
+		"/home/ja/helpy/Dockerfile",
+		"/home/ja/Documents/btrfs.txt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E01.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E02.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E03.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E04.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E05.nfo",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E06.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E07.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E10.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E09.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 6/Game.of.Thrones.S06E08.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/game.of.thrones.s07e01.web.h264-tbs[ettv].srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E02.WEB.h264-TBS[eztv].srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E03.WEB.h264-TBS[eztv].srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E04.720p.WEB.h264-TBS[eztv].srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E06.1080p.HDTV.x264-Archivist.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.srt",
+		"/mnt/B1/serialy/Game of Thrones/Game of Thrones Season 7/Game.of.Thrones.S07E05.720p.WEB.h264-TBS[eztv].srt",
+		"/etc/pacman.conf",
+		"/home/ja/helpy/docker/.env",
+		"/home/ja/helpy/docker/Caddyfile",
+		"/home/ja/helpy/helpy/docker/Caddyfile",
+		"/home/ja/Downloads/a/Unpack-3133/ParadiseLofts-0.22-linux/ParadiseLofts.sh",
+		"/home/ja/helpy/helpy/docker/.env",
+		"/home/ja/helpy/docker/.env.sample",
+		"/home/ja/helpy/helpy/docker-compose.yml",
+		"/home/ja/helpy/helpy/Dockerfile",
+		"/tmp/yaourt-tmp-ja/aur-doublecmd-gtk2-alpha-bin/PKGBUILD",
+		"/home/ja/helpy/helpy/docker/.env.sample",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/.git/config",
+		"/mnt/B1/filmy_3/comics/Iron Man/2010.Iron Man.2.srt",
+		"/home/ja/.config/i3/config",
+		"/etc/X11/xorg.conf.d/10-monitor.conf",
+		"/etc/samba/smb.conf",
+		"/mnt/B1/serialy/Archer/Archer Season 9 Complete 720p HDTV x264 [i_c]/Archer S09E01 Danger Island - Strange Pilot.srt",
+		"/tmp/yaourt-tmp-ja/aur-wsdd/PKGBUILD",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/DEPLOY.bat",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/.git/config",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/bginfo_scheduled_task.xml",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/vbs_scripts/active_ip4.vbs",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/README.md",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/bginfo_preset.bgi",
+		"/home/ja/VirtualBox/VBOXshare/BgInfo.xml",
+		"/home/ja/Nextcloud/bordel/mic.txt",
+		"/home/ja/Nextcloud/toolbox/server/bginfo_deploy/DEPLOY.bat",
+		"/home/ja/.gitconfig",
+		"/home/ja/.config/termite/config",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/vbs_scripts/default_gateway.vbs",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/BgInfo_Periodic.xml",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/BgInfo_OnLogon.xml",
+		"/home/ja/Nextcloud/toolbox/server/march_bginfo/BgInfo_OnNetworkChange.xml",
+		"/home/ja/git/march_bginfo/DEPLOY.bat",
+		"/home/ja/git/march_bginfo/BgInfo_OnLogon.xml",
+		"/home/ja/git/march_bginfo/powershell_deploy_bginfo.ps1",
+		"/home/ja/git/march_bginfo/OnLogon.xml",
+		"/usr/share/mime/packages/freedesktop.org.xml",
+		"/run/user/1000/gvfs/smb-share:server=10.0.19.6,share=d/samsung_twrp.txt",
+		"/home/ja/Nextcloud/toolbox/server/bginfo_deploy/bginfo_startup_link.lnk",
+		"/home/ja/git/march_bginfo/bginfo_preset.bgi",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/vlc/vlc.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/sumatra/sumatra.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/naps2/naps2.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/everything/everything.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/7zip/7zip.ps1",
+		"/home/ja/git/march_bginfo/powershell_deploy_bginfo.sh",
+		"/home/ja/git/march_bginfo/powershell_install.sh",
+		"/tmp/yaourt-tmp-ja/aur-spflashtool-bin/PKGBUILD",
+		"/mnt/B1/filmy_3/comics/Captain America/2014.Captain.America.The.Winter.Soldier.srt",
+		"/home/ja/explicitly_installed_packages.txt",
+		"/home/ja/bin/borg_my_home.sh",
+		"/home/ja/bin/all_crop_images.sh",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/libreoffice/libreoffice.ps1",
+		"/home/ja/.config/mpv/scripts/stats.lua",
+		"/mnt/B1/serialy/House Of Cards/House Of Cards 2/12.srt",
+		"/mnt/B1/filmy_2/Blood Diamond/Blood Diamond.srt",
+		"/home/ja/timeshift_help.txt",
+		"/etc/pacman.d/mirrorlist",
+		"/tmp/yaourt-tmp-ja/aur-timeshift/timeshift-install.sh",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/everything/Everything.ini",
+		"/etc/mkinitcpio.conf",
+		"/etc/fstab",
+		"/home/ja/Downloads/2019-01-13-091546_3200x1080_scrot.txt",
+		"/home/ja/docker/snipeit/docker-compose.yml",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/win_10/win_10.ps1",
+		"/home/ja/.config/fman/Plugins/User/Settings/​Key Bindings.json.json",
+		"/home/ja/.ssh/known_hosts",
+		"/home/ja/.config/fman/Local/Metrics.json",
+		"/home/ja/docker/urbackup/template.json",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/irfanview/irfanview.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/aimp/aimp.ps1",
+		"/etc/systemd/network/25-wired.network",
+		"/home/ja/git/powershell-wimlib-backup/wimlib_backup_deploy.ps1",
+		"/home/ja/git/powershell-wimlib-backup/wimlib_backup.ps1",
+		"/home/ja/Downloads/Busty Mom free HD Porn Video - SpankBang The Front Page of P.mp4",
+		"/home/ja/.config/mpv/input.conf",
+		"/mnt/B1/learn/docker/Udemy - Docker Mastery The Complete Toolset From a Docker Captain/02 Creating and Using Containers Like a Boss/015 Check Our Docker Install and Config-subtitle-en.srt",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/wallpapers/wallpapers.ps1",
+		"/home/ja/Nextcloud/toolbox/powershell-deploy-basics/aimp/AIMP.ini",
+		"/mnt/B1/serialy/House Of Cards/House Of Cards 2/04.srt",
+		"/home/ja/Downloads/20181003/20181003.txt",
+		"/etc/ssh/sshd_config",
+		"/home/ja/git/ANGRYsearch/angrysearch.py",
+		"/etc/X11/xorg.conf.d/00-keyboard.conf",
+		"/home/ja/git/ANGRYsearch/angrysearch",
+		"/home/ja/git/ANGRYsearch/.gitignore",
+		"/tmp/yaourt-tmp-ja/aur-standardnotes-desktop/PKGBUILD",
+		"/etc/X11/xinit/xinitrc",
+		"/home/ja/untitled.py",
+		"/tmp/yaourt-tmp-ja/aur-spacefm/PKGBUILD",
+		"/home/ja/git/ANGRYsearch/.git/MERGE_MSG",
+		"/home/ja/.config/angrysearch/angry_database.conf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"encoder",
+				"bomi/src/bomi/dialog/encoderdialog.cpp"
+			],
+			[
+				"mainwindow_p",
+				"bomi/src/bomi/player/mainwindow_p.cpp"
+			],
+			[
+				"filename",
+				"bomi/src/bomi/misc/filenamegenerator.cpp"
+			],
+			[
+				"config",
+				"~/.i3/config"
+			],
+			[
+				"/",
+				"co/setup.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
