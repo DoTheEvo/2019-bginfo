@@ -5,11 +5,11 @@
 ::   - 3 seconds after network change happens
 ::     specificly events from NetworkProfile/Operational - 10000, 10001, 4004
 :: there is bginfo_update_NOW.lnk that can be used to run the task on demand
-:: editing scheduled task and runing it as group "users" will run it for all
+:: editing scheduled task and running it as group "users" will run it for all
 
 @echo off
 
-:: check_Permissions
+:: check if the script is run as administrator
 
 net session >nul 2>&1
 if %errorLevel% == 0 (
