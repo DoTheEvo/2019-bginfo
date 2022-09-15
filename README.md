@@ -7,7 +7,7 @@ Deploys preset bginfo that
 * ignores inactive network connections
 * only shows ipv4 info
 
-Bginfo64.exe v4.26 2018-10-12
+Bginfo64.exe v4.31 2022-sep check
 
 ![demonstration](https://i.imgur.com/WMzRu8f.png)
 
