@@ -31,7 +31,7 @@ mkdir %target% 2> NUL
 :: to make it work with paths with spaces it needs to be in ""
 :: but since %~dp0 ends with a trailing / , we need to add another /
 :: otherwise the closing " would be ignored.
-robocopy "%~dp0/" %target% Bginfo64.exe bginfo_preset.bgi active_ip4.vbs bginfo_update_NOW.lnk bginfo_preset_clean.bgi
+robocopy "%~dp0/" %target% Bginfo64.exe bginfo_preset.bgi active_ip4.vbs uptime_days.vbs bginfo_update_NOW.lnk bginfo_preset_clean.bgi
 
 :: import scheduled task with many triggers
 schtasks.exe /Create /XML "%~dp0\bginfo_scheduled_task.xml" /tn "BgInfo"
